@@ -1,4 +1,4 @@
-var playlist = {key:' ', value: ' '};
+var playlist = {};
 
 function updatePlaylist (object,artistName,songTitle){
   object.artistName = songTitle;
